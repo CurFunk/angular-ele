@@ -28,3 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## This Template is based on the video https://www.youtube.com/watch?v=u_vMChpZMCk 
+
+Build exe with **electron-packager . --platform=win32**
